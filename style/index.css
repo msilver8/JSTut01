@@ -1,0 +1,22 @@
+td {
+    width: 20vw;
+}
+
+#voting_table {
+    background-color: gray;
+}
+
+button {
+    height: 100;
+    width: 500;
+}
+
+* {
+    color: white;
+}
+
+html {
+    background-color: black;
+    padding: 0;
+    border: 0;
+}
